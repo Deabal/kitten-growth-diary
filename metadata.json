@@ -1,0 +1,5 @@
+{
+  "name": "Kitten Growth Diary",
+  "description": "A web app to record daily information, care, and health of kittens, featuring AI chatbot and image analysis.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
